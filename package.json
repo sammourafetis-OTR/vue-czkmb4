@@ -8,9 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "supabase": "^1.4.6",
-    "supabase/supabase-js": "*",
-    "vue": "^3.2.26"
+    "@supabase/supabase-js": "^1.35.6",
+    "null": "2.0.0",
+    "vue": "3.2.39"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.4.0",
